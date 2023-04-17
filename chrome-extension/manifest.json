@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Demystify code",
+  "version": "1.0",
+  "description": "Get explanations for selected code",
+  "background": {
+    "service_worker": "dist/service-worker.bundle.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "contextMenus", "scripting", "storage"]
+}
+
