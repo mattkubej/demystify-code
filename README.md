@@ -19,5 +19,6 @@ Chrome plugin for providing concise explanations of selected code.
 
 ## How to use
 
+- Add OpenAI API Key via Settings (i.e. cogwheel)
 - Select code and right click `Demystify code`
 - Select code and click extension within toolbar
