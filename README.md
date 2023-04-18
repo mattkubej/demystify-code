@@ -2,6 +2,12 @@
 
 Chrome plugin for providing concise explanations of selected code.
 
+## Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mattkubej/demystify-code/main/demo/demo.gif" />
+</p>
+
 ## How to install
 
 1. Clone the repository (i.e. `git clone`)
