@@ -39,6 +39,8 @@ function getPrompt(selection: string) {
     Explain the purpose of the code and how it could be utilized.
     You want to use the right terminology. You want to avoid jargon and buzzwords. 
     You want to avoid being patronizing. Describe the code in a way that a fellow developer would understand.
+    If something appears clever or cryptic, then highlight this and explain why.
+    If something appears complex, then show a simpler way to do the same thing.
     You have ${CHATGPT_MAX_TOKENS} tokens to work with. Use markdown for formatting.
     Avoid long paragraphs and provide line breaks to make it easier to read.
 
